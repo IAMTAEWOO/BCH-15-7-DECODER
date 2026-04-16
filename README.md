@@ -1,5 +1,3 @@
-# BCH-15-7-DECODER
-
 # BCH(15,7) Decoder RTL Design and Logic Synthesis
 Berlekamp–Massey Algorithm 기반 BCH(15,7) 디코더의 RTL 설계 및 논리합성 프로젝트
 
